@@ -4,7 +4,7 @@
 // return the answer.
 int func(number) {
   int answer = number % 2;
-  return (answer);
+  return answer;
 }
 
 void main() {
